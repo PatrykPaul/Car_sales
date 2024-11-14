@@ -1,0 +1,12 @@
+Podsumowanie danych do wyciągnięcia
+Łączna liczba sprzedanych pojazdów: Liczba sprzedanych samochodów według modelu i producenta.
+Średnia cena sprzedaży: Średnia cena sprzedaży samochodów według modelu, producenta, oraz regionu.
+Najlepsi dealerzy: Dealerzy z największą liczbą sprzedanych pojazdów.
+Popularność modeli w regionach: Liczba sprzedanych samochodów dla każdego modelu w różnych regionach.
+Rozpiętość cen sprzedaży: Najwyższa i najniższa cena sprzedaży dla modeli i producentów.
+Przykładowy układ dashboardu w Power BI
+Wykres słupkowy: Łączna liczba sprzedanych samochodów według producenta i modelu.
+Wykres mapowy: Sprzedaż samochodów według regionu z filtrem na producenta i model.
+Tabela: Najlepsi dealerzy według liczby sprzedanych pojazdów.
+Karty metryczne: Średnia cena sprzedaży według modelu i producenta, najwyższa i najniższa cena.
+Segmenty filtru: Możliwość filtrowania danych według producenta, modelu, regionu oraz dealera.
