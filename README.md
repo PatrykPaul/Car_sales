@@ -1,10 +1,25 @@
-# Car Sales Analysis
+# Car Sales Analysis Dashboard 2024
 
-![Dashboard Preview](https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/1.png)
-![Dashboard Preview](https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/2.png)
-![Dashboard Preview](https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/3.png)
-![Dashboard Preview](https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/4.png)
+![Dashboard Preview](1.png)
 
+<div align="center">
+  <!-- Main image -->
+  <img src="1.png" alt="Main Dashboard Image" width="600px">
+</div>
+
+<div align="center">
+  <!-- Row of smaller images -->
+  <img src="https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/2.png" alt="Dashboard Preview 2" width="300px" style="margin-right:10px;">
+  <img src="https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/3.png" alt="Dashboard Preview 3" width="300px" style="margin-right:10px;">
+</div>
+
+<div align="center">
+  <!-- Row of smaller images -->
+  <img src="https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/4.png" alt="Dashboard Preview 2" width="300px" style="margin-right:10px;">
+  <img src="https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/6.png" alt="Dashboard Preview 3" width="300px" style="margin-right:10px;">
+</div>
+
+---
 
 ## 📖 Project Overview
 
