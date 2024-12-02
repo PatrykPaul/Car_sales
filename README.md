@@ -9,6 +9,11 @@
   <img src="https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/3.png" alt="Dashboard Preview 3" width="410px" style="margin-right:20px;">
 </div>
 
+
+
+
+
+
 <div align="center" style="margin-top:10px;">
   <img src="https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/4.png" alt="Dashboard Preview 4" width="410px" style="margin-right:20px;">
   <img src="https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/6.png" alt="Dashboard Preview 6" width="410px" style="margin-right:20px;">
