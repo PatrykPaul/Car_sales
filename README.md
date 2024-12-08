@@ -28,7 +28,15 @@ The dashboard offers detailed visualizations and analysis, including:
 - **Color Preferences**: Pie chart showing the distribution of car colors sold.
 - **Regional Sales Analysis**: Highlights locations with the highest car sales, helping to pinpoint geographic performance.
 
-![Dashboard](https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/2.png)
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:40px; margin-bottom:50px;">
+  <img src="https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/2.png" alt="Dashboard Preview 2" style="width:380px; height:auto;">
+  <img src="https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/3.png" alt="Dashboard Preview 3" style="width:380px; height:auto;">
+</div>
+
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:40px; margin-bottom:50px;">
+  <img src="https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/4.png" alt="Dashboard Preview 4" style="width:380px; height:auto;">
+  <img src="https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/6.png" alt="Dashboard Preview 6" style="width:380px; height:auto;">
+</div>
 
 ---
 
