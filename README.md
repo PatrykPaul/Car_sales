@@ -1,22 +1,17 @@
 # Car Sales Analysis Dashboard 2024
 
-<div align="center">
-  <img src="https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/1.png">
+<div align="center" style="margin-bottom:50px;">
+  <img src="https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/1.png" alt="Main Dashboard Image" style="width:95%; max-width:1200px; margin-bottom:50px;">
 </div>
 
-<div align="center" style="margin-top:100px;">
-  <img src="https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/2.png" alt="Dashboard Preview 2" width="410px" style="margin-right:20px;">
-  <img src="https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/3.png" alt="Dashboard Preview 3" width="410px" style="margin-right:20px;">
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:40px; margin-bottom:50px;">
+  <img src="https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/2.png" alt="Dashboard Preview 2" style="width:380px; height:auto;">
+  <img src="https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/3.png" alt="Dashboard Preview 3" style="width:380px; height:auto;">
 </div>
 
-
-
-
-
-
-<div align="center" style="margin-top:100px;">
-  <img src="https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/4.png" alt="Dashboard Preview 4" width="410px" style="margin-right:20px;">
-  <img src="https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/6.png" alt="Dashboard Preview 6" width="410px" style="margin-right:20px;">
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:40px; margin-bottom:50px;">
+  <img src="https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/4.png" alt="Dashboard Preview 4" style="width:380px; height:auto;">
+  <img src="https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/6.png" alt="Dashboard Preview 6" style="width:380px; height:auto;">
 </div>
 
 ---
