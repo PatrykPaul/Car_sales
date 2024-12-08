@@ -28,6 +28,8 @@ The dashboard offers detailed visualizations and analysis, including:
 - **Color Preferences**: Pie chart showing the distribution of car colors sold.
 - **Regional Sales Analysis**: Highlights locations with the highest car sales, helping to pinpoint geographic performance.
 
+![Dashboard](https://github.com/PatrykPaul/Car_sales/blob/main/Dashboard/2.png)
+
 ---
 
 ## 📋 Tools Used
